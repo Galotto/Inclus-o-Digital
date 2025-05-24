@@ -1,0 +1,54 @@
+[
+    {
+        "nome": "Yuri",
+        "email": "yuri@email.com",
+        "senha": "c00357563669ed21c34e13687cad669038eb88a2831fc8109b40ddc62f63e934",
+        "tipo": "aluno"
+    },
+    {
+        "nome": "Gabriel",
+        "email": "gabriel@email.com",
+        "senha": "472fd5cec4e5f9913ca350768e478093c76c0db5f1a7b1586a0943265101c921",
+        "tipo": "aluno"
+    },
+    {
+        "nome": "Ana",
+        "email": "ana@email.com",
+        "senha": "e82827b00b2ca8620beb37f879778c082b292a52270390cff35b6fe3157f4e8b",
+        "tipo": "aluno"
+    },
+    {
+        "nome": "Fabio",
+        "email": "fabio@gmail.com",
+        "senha": "c00357563669ed21c34e13687cad669038eb88a2831fc8109b40ddc62f63e934",
+        "tipo": "aluno",
+        "logins": 2
+    },
+    {
+        "nome": "Leticia",
+        "email": "leticia@gmail.com",
+        "senha": "c00357563669ed21c34e13687cad669038eb88a2831fc8109b40ddc62f63e934",
+        "tipo": "aluno",
+        "logins": 1
+    },
+    {
+        "nome": "Pedro",
+        "email": "pedro@gmail.com",
+        "senha": "c00357563669ed21c34e13687cad669038eb88a2831fc8109b40ddc62f63e934",
+        "tipo": "aluno",
+        "logins": 1
+    },
+    {
+        "nome": "paulo",
+        "email": "paulo@email.com",
+        "senha": "c00357563669ed21c34e13687cad669038eb88a2831fc8109b40ddc62f63e934",
+        "tipo": "aluno"
+    },
+    {
+        "nome": "Yuri",
+        "email": "Yuri@gmail.com",
+        "senha": "fdf4d606aff38e067923e1e0feb9a5ac2a96cfe955fa6674d699eb52de5d0549",
+        "tipo": "aluno",
+        "logins": 5
+    }
+]

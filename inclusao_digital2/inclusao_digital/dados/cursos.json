@@ -1,0 +1,424 @@
+{
+    "logica_computacional": {
+        "titulo": "Lógica Computacional",
+        "aulas": [
+            {
+                "titulo": "Fundamentos de Lógica",
+                "conteudo": "Proposições, operadores lógicos, tabelas verdade e raciocínio dedutivo.",
+                "questoes": [
+                    {
+                        "pergunta": "Se hoje é terça-feira, então amanhã é quarta-feira. Hoje é terça-feira. Logo, amanhã é?",
+                        "alternativas": [
+                            "Quarta-feira",
+                            "Segunda-feira",
+                            "Sexta-feira",
+                            "Domingo"
+                        ],
+                        "resposta_correta": "Quarta-feira"
+                    },
+                    {
+                        "pergunta": "Qual é a negação correta da frase: 'Todos os estudantes passaram no teste'?",
+                        "alternativas": [
+                            "Algum estudante não passou no teste",
+                            "Nenhum estudante passou no teste",
+                            "Todos os estudantes reprovaram",
+                            "Os estudantes passaram ou não passaram"
+                        ],
+                        "resposta_correta": "Algum estudante não passou no teste"
+                    },
+                    {
+                        "pergunta": "A tabela verdade de 'p ou q' é falsa quando:",
+                        "alternativas": [
+                            "p e q são falsos",
+                            "p é verdadeiro e q é falso",
+                            "p é falso e q é verdadeiro",
+                            "p e q são verdadeiros"
+                        ],
+                        "resposta_correta": "p e q são falsos"
+                    },
+                    {
+                        "pergunta": "Na lógica proposicional, qual o valor lógico da negação de 'Falso'?",
+                        "alternativas": [
+                            "Verdadeiro",
+                            "Falso",
+                            "Indefinido",
+                            "Nulo"
+                        ],
+                        "resposta_correta": "Verdadeiro"
+                    },
+                    {
+                        "pergunta": "Se 'p' é verdadeiro e 'q' é falso, qual o valor de 'p e q'?",
+                        "alternativas": [
+                            "Falso",
+                            "Verdadeiro",
+                            "Indefinido",
+                            "Nulo"
+                        ],
+                        "resposta_correta": "Falso"
+                    },
+                    {
+                        "pergunta": "Se 'p' é falso e 'q' é falso, qual o valor de 'p ou q'?",
+                        "alternativas": [
+                            "Falso",
+                            "Verdadeiro",
+                            "Indefinido",
+                            "Nulo"
+                        ],
+                        "resposta_correta": "Falso"
+                    },
+                    {
+                        "pergunta": "Qual conectivo lógico representa a conjunção?",
+                        "alternativas": [
+                            "e",
+                            "ou",
+                            "não",
+                            "se...então"
+                        ],
+                        "resposta_correta": "e"
+                    },
+                    {
+                        "pergunta": "A implicação 'se p então q' é falsa apenas quando:",
+                        "alternativas": [
+                            "p é verdadeiro e q é falso",
+                            "p é falso e q é verdadeiro",
+                            "p é falso e q é falso",
+                            "p é verdadeiro e q é verdadeiro"
+                        ],
+                        "resposta_correta": "p é verdadeiro e q é falso"
+                    },
+                    {
+                        "pergunta": "Se 'não p' é falso, então 'p' é?",
+                        "alternativas": [
+                            "Verdadeiro",
+                            "Falso",
+                            "Indefinido",
+                            "Ambíguo"
+                        ],
+                        "resposta_correta": "Verdadeiro"
+                    },
+                    {
+                        "pergunta": "A negação de 'João é médico ou engenheiro' é:",
+                        "alternativas": [
+                            "João não é médico e não é engenheiro",
+                            "João não é médico ou é engenheiro",
+                            "João é médico e engenheiro",
+                            "João é médico ou engenheiro"
+                        ],
+                        "resposta_correta": "João não é médico e não é engenheiro"
+                    },
+                    {
+                        "pergunta": "Se hoje é terça-feira, então amanhã é quarta-feira. Hoje é terça-feira. Logo, amanhã é?",
+                        "alternativas": [
+                            "Quarta-feira",
+                            "Segunda-feira",
+                            "Sexta-feira",
+                            "Domingo"
+                        ],
+                        "resposta_correta": "Quarta-feira"
+                    },
+                    {
+                        "pergunta": "Qual é a negação correta da frase: 'Todos os estudantes passaram no teste'?",
+                        "alternativas": [
+                            "Algum estudante não passou no teste",
+                            "Nenhum estudante passou no teste",
+                            "Todos os estudantes reprovaram",
+                            "Os estudantes passaram ou não passaram"
+                        ],
+                        "resposta_correta": "Algum estudante não passou no teste"
+                    },
+                    {
+                        "pergunta": "A tabela verdade de 'p ou q' é falsa quando:",
+                        "alternativas": [
+                            "p e q são falsos",
+                            "p é verdadeiro e q é falso",
+                            "p é falso e q é verdadeiro",
+                            "p e q são verdadeiros"
+                        ],
+                        "resposta_correta": "p e q são falsos"
+                    },
+                    {
+                        "pergunta": "Na lógica proposicional, qual o valor lógico da negação de 'Falso'?",
+                        "alternativas": [
+                            "Verdadeiro",
+                            "Falso",
+                            "Indefinido",
+                            "Nulo"
+                        ],
+                        "resposta_correta": "Verdadeiro"
+                    },
+                    {
+                        "pergunta": "Se 'p' é verdadeiro e 'q' é falso, qual o valor de 'p e q'?",
+                        "alternativas": [
+                            "Falso",
+                            "Verdadeiro",
+                            "Indefinido",
+                            "Nulo"
+                        ],
+                        "resposta_correta": "Falso"
+                    },
+                    {
+                        "pergunta": "Se 'p' é falso e 'q' é falso, qual o valor de 'p ou q'?",
+                        "alternativas": [
+                            "Falso",
+                            "Verdadeiro",
+                            "Indefinido",
+                            "Nulo"
+                        ],
+                        "resposta_correta": "Falso"
+                    },
+                    {
+                        "pergunta": "Qual conectivo lógico representa a conjunção?",
+                        "alternativas": [
+                            "e",
+                            "ou",
+                            "não",
+                            "se...então"
+                        ],
+                        "resposta_correta": "e"
+                    },
+                    {
+                        "pergunta": "A implicação 'se p então q' é falsa apenas quando:",
+                        "alternativas": [
+                            "p é verdadeiro e q é falso",
+                            "p é falso e q é verdadeiro",
+                            "p é falso e q é falso",
+                            "p é verdadeiro e q é verdadeiro"
+                        ],
+                        "resposta_correta": "p é verdadeiro e q é falso"
+                    },
+                    {
+                        "pergunta": "Se 'não p' é falso, então 'p' é?",
+                        "alternativas": [
+                            "Verdadeiro",
+                            "Falso",
+                            "Indefinido",
+                            "Ambíguo"
+                        ],
+                        "resposta_correta": "Verdadeiro"
+                    },
+                    {
+                        "pergunta": "A negação de 'João é médico ou engenheiro' é:",
+                        "alternativas": [
+                            "João não é médico e não é engenheiro",
+                            "João não é médico ou é engenheiro",
+                            "João é médico e engenheiro",
+                            "João é médico ou engenheiro"
+                        ],
+                        "resposta_correta": "João não é médico e não é engenheiro"
+                    }
+                ]
+            }
+        ]
+    },
+    "programacao_python": {
+        "titulo": "Programação em Python",
+        "aulas": [
+            {
+                "titulo": "Introdução à Linguagem Python",
+                "conteudo": "Tipos de dados, estruturas de controle, listas, funções e entrada/saída.",
+                "questoes": [
+                    {
+                        "pergunta": "Qual é a saída de print(type(3.14))?",
+                        "alternativas": [
+                            "<class 'float'>",
+                            "<class 'int'>",
+                            "<class 'str'>",
+                            "<class 'bool'>"
+                        ],
+                        "resposta_correta": "<class 'float'>"
+                    },
+                    {
+                        "pergunta": "Como se declara uma função em Python?",
+                        "alternativas": [
+                            "def minha_funcao():",
+                            "func minha_funcao()",
+                            "function minha_funcao()",
+                            "define minha_funcao()"
+                        ],
+                        "resposta_correta": "def minha_funcao():"
+                    },
+                    {
+                        "pergunta": "O que faz o operador // em Python?",
+                        "alternativas": [
+                            "Divisão inteira",
+                            "Resto da divisão",
+                            "Potência",
+                            "Divisão com ponto flutuante"
+                        ],
+                        "resposta_correta": "Divisão inteira"
+                    },
+                    {
+                        "pergunta": "Qual comando é usado para ler entrada do usuário?",
+                        "alternativas": [
+                            "input()",
+                            "scan()",
+                            "read()",
+                            "get()"
+                        ],
+                        "resposta_correta": "input()"
+                    },
+                    {
+                        "pergunta": "Qual é o valor de len([1, 2, 3])?",
+                        "alternativas": [
+                            "3",
+                            "2",
+                            "4",
+                            "1"
+                        ],
+                        "resposta_correta": "3"
+                    },
+                    {
+                        "pergunta": "Qual destas estruturas é usada para repetição?",
+                        "alternativas": [
+                            "while",
+                            "if",
+                            "def",
+                            "return"
+                        ],
+                        "resposta_correta": "while"
+                    },
+                    {
+                        "pergunta": "Como se representa uma lista em Python?",
+                        "alternativas": [
+                            "[1, 2, 3]",
+                            "{1, 2, 3}",
+                            "(1, 2, 3)",
+                            "<1, 2, 3>"
+                        ],
+                        "resposta_correta": "[1, 2, 3]"
+                    },
+                    {
+                        "pergunta": "O que significa a expressão 'x += 1'?",
+                        "alternativas": [
+                            "x = x + 1",
+                            "x = 1",
+                            "x = x - 1",
+                            "x = x * 1"
+                        ],
+                        "resposta_correta": "x = x + 1"
+                    },
+                    {
+                        "pergunta": "O que retorna range(3)?",
+                        "alternativas": [
+                            "0, 1, 2",
+                            "1, 2, 3",
+                            "0, 1, 2, 3",
+                            "3, 2, 1"
+                        ],
+                        "resposta_correta": "0, 1, 2"
+                    },
+                    {
+                        "pergunta": "Qual comando é usado para importar bibliotecas?",
+                        "alternativas": [
+                            "import",
+                            "include",
+                            "require",
+                            "load"
+                        ],
+                        "resposta_correta": "import"
+                    },
+                    {
+                        "pergunta": "Qual é a saída de print(type(3.14))?",
+                        "alternativas": [
+                            "<class 'float'>",
+                            "<class 'int'>",
+                            "<class 'str'>",
+                            "<class 'bool'>"
+                        ],
+                        "resposta_correta": "<class 'float'>"
+                    },
+                    {
+                        "pergunta": "Como se declara uma função em Python?",
+                        "alternativas": [
+                            "def minha_funcao():",
+                            "func minha_funcao()",
+                            "function minha_funcao()",
+                            "define minha_funcao()"
+                        ],
+                        "resposta_correta": "def minha_funcao():"
+                    },
+                    {
+                        "pergunta": "O que faz o operador // em Python?",
+                        "alternativas": [
+                            "Divisão inteira",
+                            "Resto da divisão",
+                            "Potência",
+                            "Divisão com ponto flutuante"
+                        ],
+                        "resposta_correta": "Divisão inteira"
+                    },
+                    {
+                        "pergunta": "Qual comando é usado para ler entrada do usuário?",
+                        "alternativas": [
+                            "input()",
+                            "scan()",
+                            "read()",
+                            "get()"
+                        ],
+                        "resposta_correta": "input()"
+                    },
+                    {
+                        "pergunta": "Qual é o valor de len([1, 2, 3])?",
+                        "alternativas": [
+                            "3",
+                            "2",
+                            "4",
+                            "1"
+                        ],
+                        "resposta_correta": "3"
+                    },
+                    {
+                        "pergunta": "Qual destas estruturas é usada para repetição?",
+                        "alternativas": [
+                            "while",
+                            "if",
+                            "def",
+                            "return"
+                        ],
+                        "resposta_correta": "while"
+                    },
+                    {
+                        "pergunta": "Como se representa uma lista em Python?",
+                        "alternativas": [
+                            "[1, 2, 3]",
+                            "{1, 2, 3}",
+                            "(1, 2, 3)",
+                            "<1, 2, 3>"
+                        ],
+                        "resposta_correta": "[1, 2, 3]"
+                    },
+                    {
+                        "pergunta": "O que significa a expressão 'x += 1'?",
+                        "alternativas": [
+                            "x = x + 1",
+                            "x = 1",
+                            "x = x - 1",
+                            "x = x * 1"
+                        ],
+                        "resposta_correta": "x = x + 1"
+                    },
+                    {
+                        "pergunta": "O que retorna range(3)?",
+                        "alternativas": [
+                            "0, 1, 2",
+                            "1, 2, 3",
+                            "0, 1, 2, 3",
+                            "3, 2, 1"
+                        ],
+                        "resposta_correta": "0, 1, 2"
+                    },
+                    {
+                        "pergunta": "Qual comando é usado para importar bibliotecas?",
+                        "alternativas": [
+                            "import",
+                            "include",
+                            "require",
+                            "load"
+                        ],
+                        "resposta_correta": "import"
+                    }
+                ]
+            }
+        ]
+    }
+}

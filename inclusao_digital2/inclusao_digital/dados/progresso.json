@@ -1,0 +1,30 @@
+{
+    "ana@email.com": {
+        "acertos": 3,
+        "total": 4
+    },
+    "gabriel@email.com": {
+        "acertos": 4,
+        "total": 4
+    },
+    "yuri@email.com": {
+        "acertos": 3,
+        "total": 4
+    },
+    "fabio@gmail.com": {
+        "acertos": 4,
+        "total": 4
+    },
+    "leticia@gmail.com": {
+        "acertos": 1,
+        "total": 2
+    },
+    "pedro@gmail.com": {
+        "acertos": 2,
+        "total": 2
+    },
+    "Yuri@gmail.com": {
+        "acertos": 2,
+        "total": 2
+    }
+}
