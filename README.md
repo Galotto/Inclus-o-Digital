@@ -1,2 +1,1 @@
-# Inclus-o-Digital
-Um questionário simples e objetivo para Inclusão digital, testando os conhecimentos dos alunos de nossas instituições.
+Para Acessar o quesionário basta acessar o executável "main.exe" na pasta "dist".
